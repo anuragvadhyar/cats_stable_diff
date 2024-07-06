@@ -1,0 +1,1 @@
+This project employs the concept of Haar Cascades(OpenCV2) to filter the best Cat images from the CATS VS DOGS dataset. The most distinct and clear images that are perfectly representative of a cat are filtered and are passed as input to a Stable Diffusion model which is trained to generate Cat images.
